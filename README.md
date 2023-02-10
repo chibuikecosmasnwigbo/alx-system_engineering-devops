@@ -1,1 +1,1 @@
-this is a repostory
+this is a readme file
